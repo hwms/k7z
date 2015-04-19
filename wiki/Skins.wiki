@@ -43,6 +43,6 @@
 
   * EaSynth - 90 KiB - [http://www.easynth.com/freewares/EaSynthLookAndFeel.html Website]
   * JGoodies - 410 KiB - [http://www.jgoodies.com/ Website]
-  * NimROD - 215 KiB - [http://personales.ya.com/nimrod/index-en.html Website]
+  * NimROD - 215 KiB - [http://nilogonzalez.es/nimrodlf/index-en.html Website]
   * Office - 105 KiB - [http://fifesoft.com/officelnfs/ Website]
   * PagoSoft - 160 KiB - [http://www.pagosoft.com/projects/pgslookandfeel/ Website]
